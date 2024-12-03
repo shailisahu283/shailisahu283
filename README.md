@@ -6,13 +6,12 @@ Welcome to my GitHub profile! Here's a quick snapshot of who I am and what I do:
 - 👀 **I'm interested in:**  
   Exploring cutting-edge technologies in **Electronics and Communication Engineering (ECE)**, especially **AI/ML**, **Digital Design**, **RF systems**, and **IoT-based solutions**.  
 - 🌱 **Currently learning:**  
-  - Advanced techniques in **AI/ML** (e.g., CNNs and Transformers for image processing).  
-  - **GitHub best practices** to make my repositories even more user-friendly.  
+  - Advanced techniques in **AI/ML** (e.g., CNNs and Transformers for image processing).   
 - 💼 **Looking to collaborate on:**  
   - Innovative **ECE-related projects** involving hardware simulations, communication systems, and ML applications.  
   - Open-source initiatives where my knowledge in **MATLAB**, **Verilog/SystemVerilog**, **Python**, or **IoT** can add value.  
 - 📫 **Reach me at:**  
-  - [Email](mailto:shailisahu283@example.com)  
+  - [Email](mailto:shailisahu283@gmail.com)  
   - [LinkedIn](https://www.linkedin.com/in/shailisahu283/)  
   - [Personal Website](https://yourwebsite.com) *(coming soon!)*  
 
