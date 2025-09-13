@@ -12,7 +12,6 @@ Welcome to my GitHub profile! Here's a quick snapshot of who I am and what I do:
   - Open-source initiatives where my knowledge in **MATLAB**, **Verilog/SystemVerilog**, **Python**, or **IoT** can add value.  
 - 📫 **Reach me at:**  
   - [Email](mailto:shailisahu283@gmail.com)  
-  - [LinkedIn](https://www.linkedin.com/in/shailisahu283/)  
   - [Personal Website](https://yourwebsite.com) *(coming soon!)*  
 
 ## 🛠️ Skills and Tools
